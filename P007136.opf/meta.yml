@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W23177
   title: དམ་ཆོས་དགོངས་པ་གཅིག་པའི་གསལ་བྱེད
-  volume: ''
+  volume:
+    011a9f23a1134cabb161f3596610b72f:
+      image_group_id: I0381
+      title: ''
+      volume_number: 1
+      total_pages: 364
   author: ''
+ebook_metadata:
+  title: དམ་ཆོས་དགོངས་པ་གཅིག་པའི་གསལ་བྱེད
+  author: ''
+  sku: P007136
+  cover: cover.jpg
+  layers:
+  - pagination
